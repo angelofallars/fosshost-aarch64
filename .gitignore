@@ -8,5 +8,5 @@ provisioning/*.retry
 __pycache__/
 go.sum
 go.work.sum
-api/api
+/api/api
 .env
