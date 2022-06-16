@@ -7,3 +7,5 @@ RUN go mod tidy
 RUN go build
 
 CMD [ "./api" ]
+
+EXPOSE 3000
